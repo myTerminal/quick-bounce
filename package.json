@@ -1,0 +1,33 @@
+{
+  "name": "quick-bounce",
+  "version": "0.9.0",
+  "description": "A wrapper over bouncy to host your subdomains on different ports",
+  "main": "bin/index.js",
+  "scripts": {
+    "install": "node installer.js",
+    "postinstall": "gulp",
+    "develop": "gulp develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:myTerminal/quick-bounce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myTerminal/quick-bounce/issues"
+  },
+  "homepage": "https://github.com/myTerminal/quick-bounce#readme",
+  "keywords": [
+    "reverse-proxy"
+  ],
+  "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "bouncy": "^3.2.2",
+    "package-script": "0.0.8"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.1",
+    "gulp-watch": "^4.3.11"
+  }
+}

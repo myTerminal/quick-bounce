@@ -1,0 +1,19 @@
+{
+    "websites": [
+        {
+            "app-name": "root",
+            "host": "www.example.com",
+            "port": "8080"
+        },
+        {
+            "app-name": "one",
+            "host": "one.example.com",
+            "port": "8081"
+        },
+        {
+            "app-name": "two",
+            "host": "two.example.com",
+            "port": "8082"
+        }
+    ]
+}
