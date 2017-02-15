@@ -2,4 +2,4 @@
 
 var quickBounce = require("quick-bounce");
 
-quickBounce.bounce("configs.json", 80);
+quickBounce.bounce("./configs.json", 80);

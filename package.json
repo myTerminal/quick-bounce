@@ -1,6 +1,6 @@
 {
   "name": "quick-bounce",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "A wrapper over bouncy to host your subdomains on different ports",
   "main": "bin/index.js",
   "scripts": {
