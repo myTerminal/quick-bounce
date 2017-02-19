@@ -4,7 +4,8 @@
   "description": "A wrapper over bouncy to host your subdomains on different ports",
   "main": "bin/index.js",
   "scripts": {
-    "install": "node installer.js",
+    "install-globals": "npm install -g gulp-cli",
+    "install": "npm run install-globals",
     "develop": "gulp develop"
   },
   "repository": {
@@ -21,8 +22,7 @@
   "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "bouncy": "^3.2.2",
-    "package-script": "0.0.8"
+    "bouncy": "^3.2.2"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
