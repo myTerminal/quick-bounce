@@ -57,7 +57,7 @@ You can also refer to the [example](example), which has basically the same code 
 
 ## Dependencies
 
-* bouncy
+* [bouncy](https://www.npmjs.com/package/bouncy)
 
 ## To-do
 
