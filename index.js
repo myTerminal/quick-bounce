@@ -9,11 +9,11 @@ module.exports = {
             configs = require(configFilePath);
 
         bouncy(function (req, res, bounce) {
-            var website = configs.websites.filter(function (w) {
-                return w.host === req.headers.host;
-            }).concat( {
-                port: configs.websites[0].port
-            })[0];
+            var website = configs.websites
+                .filter(w => w.host === req.headers.host)
+                .concat({
+                    port: configs.websites[0].port
+                })[0];
 
             console.log("Bouncing from", req.headers.host, "to", website.port);
             bounce(website.port);
