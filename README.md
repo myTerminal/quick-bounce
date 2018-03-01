@@ -4,7 +4,6 @@
 [![npm downloads](https://img.shields.io/npm/dt/quick-bounce.svg)](https://www.npmjs.com/package/quick-bounce)  
 [![Build Status](https://travis-ci.org/myTerminal/quick-bounce.svg?branch=master)](https://travis-ci.org/myTerminal/quick-bounce)
 [![Code Climate](https://codeclimate.com/github/myTerminal/quick-bounce.png)](https://codeclimate.com/github/myTerminal/quick-bounce)
-[![Package Quality](http://npm.packagequality.com/shield/quick-bounce.svg)](http://packagequality.com/#?package=quick-bounce)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/quick-bounce.svg)](https://coveralls.io/r/myTerminal/quick-bounce?branch=master)
 [![bitHound Overall Score](https://www.bithound.io/github/myTerminal/quick-bounce/badges/score.svg)](https://www.bithound.io/github/myTerminal/quick-bounce)
 [![bitHound Code](https://www.bithound.io/github/myTerminal/quick-bounce/badges/code.svg)](https://www.bithound.io/github/myTerminal/quick-bounce)  
