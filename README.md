@@ -8,7 +8,7 @@
 [![Dependency Status](https://david-dm.org/myTerminal/quick-bounce.svg)](https://david-dm.org/myTerminal/quick-bounce)
 [![devDependency Status](https://david-dm.org/myTerminal/quick-bounce/dev-status.svg)](https://david-dm.org/myTerminal/quick-bounce#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/quick-bounce/peer-status.svg)](https://david-dm.org/myTerminal/quick-bounce#info=peerDependencies)  
-[![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)  
+[![License](https://img.shields.io/github/license/myTerminal/ample-alerts.svg)](https://opensource.org/licenses/MIT)  
 [![NPM](https://nodei.co/npm/quick-bounce.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/quick-bounce/)
 
 A reverse-proxy implementation using bouncy to host sub-domains on the same machine on different ports
