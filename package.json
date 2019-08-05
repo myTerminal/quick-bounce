@@ -19,7 +19,7 @@
     "reverse-proxy"
   ],
   "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "dependencies": {
     "bouncy": "3.2.2"
   },
