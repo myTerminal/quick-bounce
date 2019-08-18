@@ -51,10 +51,6 @@ A configuration file can look like
 
 You can also refer to the [example](example), which has basically the same code as shown above as that is all there is you need to do.
 
-## Dependencies
-
-* [bouncy](https://www.npmjs.com/package/bouncy)
-
 ## To-do
 
 * Multiple domain names to one website
