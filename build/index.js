@@ -1,1 +1,0 @@
-"use strict";var path=require("path"),bouncy=require("bouncy");module.exports.bounce=function(e,o){var r=path.join(path.dirname(require.main.filename),e),n=require(r);bouncy(function(o,e,r){var t=n.websites.filter(function(e){return e.host===o.headers.host}).concat({port:n.websites[0].port})[0];console.log("Bouncing from "+o.headers.host+" to "+t.port),r(t.port)}).listen(o)};
