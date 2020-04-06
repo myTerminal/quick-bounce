@@ -3,6 +3,9 @@
   "version": "0.9.7",
   "description": "A wrapper over bouncy to host your subdomains on different ports",
   "main": "build/index.js",
+  "files": [
+    "/build"
+  ],
   "scripts": {
     "gulp": "gulp"
   },
