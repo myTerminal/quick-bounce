@@ -1,15 +1,12 @@
 # quick-bounce
 
 [![npm version](https://badge.fury.io/js/quick-bounce.svg)](https://badge.fury.io/js/quick-bounce)
-[![npm downloads](https://img.shields.io/npm/dt/quick-bounce.svg)](https://www.npmjs.com/package/quick-bounce)  
+[![npm downloads](https://img.shields.io/npm/dt/quick-bounce.svg)](https://www.npmjs.com/package/quick-bounce)
+[![License](https://img.shields.io/github/license/myTerminal/ample-alerts.svg)](https://opensource.org/licenses/MIT)  
 [![Build Status](https://travis-ci.org/myTerminal/quick-bounce.svg?branch=master)](https://travis-ci.org/myTerminal/quick-bounce)
 [![Code Climate](https://codeclimate.com/github/myTerminal/quick-bounce.png)](https://codeclimate.com/github/myTerminal/quick-bounce)
 [![js-myterminal-style](https://img.shields.io/badge/code%20style-myterminal-blue.svg)](https://www.npmjs.com/package/eslint-config/myterminal)
 [![Coverage Status](https://img.shields.io/coveralls/myTerminal/quick-bounce.svg)](https://coveralls.io/r/myTerminal/quick-bounce?branch=master)  
-[![Dependency Status](https://david-dm.org/myTerminal/quick-bounce.svg)](https://david-dm.org/myTerminal/quick-bounce)
-[![devDependency Status](https://david-dm.org/myTerminal/quick-bounce/dev-status.svg)](https://david-dm.org/myTerminal/quick-bounce#info=devDependencies)
-[![peer Dependency Status](https://david-dm.org/myTerminal/quick-bounce/peer-status.svg)](https://david-dm.org/myTerminal/quick-bounce#info=peerDependencies)  
-[![License](https://img.shields.io/github/license/myTerminal/ample-alerts.svg)](https://opensource.org/licenses/MIT)  
 [![NPM](https://nodei.co/npm/quick-bounce.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/quick-bounce/)
 
 A reverse-proxy implementation using bouncy to host sub-domains on the same machine on different ports
